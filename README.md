@@ -9,7 +9,7 @@ Live Demo: :point_right: [here]([https://lamdayne.github.io/clone-shopee/])
 * Code editing: Visual Studio Code
 * Themify icon
 * ...
-### Learn more# :sparkling_heart: Welcome to Clone Shopee repository
+### Learn more :sparkling_heart: Welcome to Clone Shopee repository
 
 The main project folder that for learning and practicing HTML, CSS, Javascript and Responsive
 
