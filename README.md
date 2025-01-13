@@ -2,7 +2,7 @@
 
 The main project folder that for learning and practicing HTML, CSS, Javascript and Responsive
 
-Live Demo: :point_right: [here]([https://lamdayne.github.io/clone-shopee/])
+Live Demo: :point_right: [here](https://lamdayne.github.io/clone-shopee/)
 
 ### You will find in this repo the following stuff:
 * The HTML, CSS and Javascript source
